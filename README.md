@@ -45,12 +45,6 @@ Anuj Kumar Singh and Bhupendra Gupta “A novel approach for breast cancer detec
 
 J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast cancer on mammograms: A swarm intelligence optimized wavelet neural network approach” Journal of Biomedical Informatics (2014).
 
-## Team Members 
-
-Madhusudan Verma,
-Nagaraja Tarun,
-Subham Tewari(me)
-
 ## Screenshots
 
 **Now you have to browse the image of the mammograms and give it as an input**
